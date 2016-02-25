@@ -1,0 +1,38 @@
+BaseUrl= "https://www.jamescampbell.us"
+LanguageCode= "en-US"
+Title= "CAUSES & EFFECTS"
+paginate = 10
+DisqusShortname = "jamescampbell"
+Copyright = "All rights reserved © 2016"
+canonifyurls = true
+theme = "startbootstrap-clean-blog"
+newContentEditor = "nano"
+pygmentsStyle = "native"
+[[author]]
+    name = "James Campbell"
+
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "buttons are made to be pushed"
+  Author = "James Campbell"
+  email = "james@jamescampbell.us"
+  #Ganalytics = "XX-00000000-0"
+  RSSLink = "https://www.jamescampbell.us/index.xml"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  twitter = "https://www.twitter.com/jamescampbell"
+
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/jamescampbell"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/jamesacampbell"
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Archives"
+  url = "/post/"
+  weight = -180
+
