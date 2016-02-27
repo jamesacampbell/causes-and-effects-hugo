@@ -1,6 +1,6 @@
 +++
 title = "On Photography and Joy"
-date = "2013-02-04T10:10:10"
+date = "2014-02-04T10:10:10"
 image = "/img/on-photography-and-joy.jpg"
 description = "My first attempt to explain why I call myself a photographer."
 categories = ["essays"]
