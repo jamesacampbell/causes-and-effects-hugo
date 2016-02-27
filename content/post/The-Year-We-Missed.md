@@ -12,7 +12,7 @@ My goal in this post is to share photos I have curated that document the phenome
 
 Since I believe I am a better curator than writer, I will try to keep the words to a minimum. 
 
-[![man on phone](http://farm8.staticflickr.com/7238/7049846391_fd4cc6cb7c_b_d.jpg)]
+![man on phone](http://farm8.staticflickr.com/7238/7049846391_fd4cc6cb7c_b_d.jpg)
 <p class="pcaption">photo credit Timothy Kraus</p>
 
 <div><img class='protected' src="http://farm9.staticflickr.com/8527/8498642548_dc4a26274a_b_d.jpg"></div>
