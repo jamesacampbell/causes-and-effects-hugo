@@ -8,9 +8,9 @@ menu = "main"
 type = "about"
 +++
 
-I am a husband, father, and CTO living near Washington DC. 
+I am a husband, father, and technologist living near Washington DC. 
 
-I like to work on anything in fields that venn art & code.
+I work on projects that venn art & code.
 
 
 
