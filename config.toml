@@ -8,12 +8,12 @@ canonifyurls = true
 theme = "startbootstrap-clean-blog"
 newContentEditor = "nano"
 pygmentsStyle = "native"
-Author = "James Campbell"
-SiteDescription = "coding advice in Python, software development, and tips related to how to fix bad technology"
 [[author]]
     name = "James Campbell"
 
 [params]
+  Author = "James Campbell"
+  SiteDescription = "coding advice in Python, software development, and tips related to how to fix bad technology"
   DateForm = "Mon, Jan 2, 2006"
   Description = "buttons are made to be pushed"
   Author = "James Campbell"
