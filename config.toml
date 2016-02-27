@@ -8,6 +8,8 @@ canonifyurls = true
 theme = "startbootstrap-clean-blog"
 newContentEditor = "nano"
 pygmentsStyle = "native"
+Author = "James Campbell"
+SiteDescription = "coding advice in Python, software development, and tips related to how to fix bad technology"
 [[author]]
     name = "James Campbell"
 
@@ -27,6 +29,9 @@ pygmentsStyle = "native"
 [[params.social]]
   title = "github"
   url = "https://github.com/jamesacampbell"
+[[params.social]]
+  title = "tumblr"
+  url = "https://tumblr.jamesacampbell.us"
 [[menu.main]]
   name = "home"
   url = "/"

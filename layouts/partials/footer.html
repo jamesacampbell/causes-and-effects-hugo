@@ -35,7 +35,13 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="{{ .Site.BaseURL }}/js/bootstrap.min.js"></script>
-
+	<script>
+		$(document).ready(function () {
+   $("body").on("contextmenu",function(e){
+     return false;
+   });
+});
+</script>
     <!-- Custom Theme JavaScript -->
     <script src="{{ .Site.BaseURL }}/js/clean-blog.js"></script>
 
