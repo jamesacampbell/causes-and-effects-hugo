@@ -12,10 +12,9 @@ pygmentsStyle = "native"
     name = "James Campbell"
 
 [params]
-  Author = "James Campbell"
   SiteDescription = "coding advice in Python, software development, and tips related to how to fix bad technology"
   DateForm = "Mon, Jan 2, 2006"
-  Description = "buttons are made to be pushed"
+  Description = "pushing buttons since 1981"
   Author = "James Campbell"
   email = "james@jamescampbell.us"
   #Ganalytics = "XX-00000000-0"
