@@ -11,7 +11,7 @@ I've complained about Flickr's new redesign enough. There are some positives abo
 
 For example, I am one of the lucky ones who have been grandfathered into Flickr's unlimited photo plan when my Pro plan was renewed earlier this year. This means that for $25 per year I get _unlimited_ photo storage. 
 
-![screenshot of flickr unlimited available](https://www.jamescampbell.us/img/flickr-backup.jpg)
+![screenshot of flickr unlimited available](https://www.jamescampbell.us/img/flickr-backup.png)
 
 This fact, coupled with the auto-upload feature in the Flickr app for the iPhone means I have everything I need to backup and store all of my photos taken on my iPhone. 
 
