@@ -30,7 +30,7 @@ pygmentsStyle = "native"
   url = "https://github.com/jamesacampbell"
 [[params.social]]
   title = "tumblr"
-  url = "https://tumblr.jamesacampbell.us"
+  url = "http://tumblr.jamescampbell.us"
 [[menu.main]]
   name = "home"
   url = "/"
