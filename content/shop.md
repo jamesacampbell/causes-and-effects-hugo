@@ -8,5 +8,7 @@ type = "shop"
 draft = false
 +++
 
-<p>Shop is coming soon. In the meantime, use the email link below for inquiries.</p><p><br></p>
+<a href="#" class="paddle_button" data-product="506909">BitBalance app (OSX)</a>
+<p>Free OSX app to check the balance of any bitcoin wallet</p>
+
 <a href="https://www.jamescampbell.us/">back to main</a>
