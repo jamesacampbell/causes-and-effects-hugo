@@ -8,7 +8,13 @@ type = "shop"
 draft = false
 +++
 
+## FREE
 <a href="#" class="paddle_button" data-product="506909">BitBalance app (OSX)</a>
 <p>Free OSX app to check the balance of any bitcoin wallet</p>
 
-<a href="https://www.jamescampbell.us/">back to main</a>
+
+## PAID
+
+<p>coming soon.</p>
+
+<a href="https://www.jamescampbell.us/">back to home page</a>
