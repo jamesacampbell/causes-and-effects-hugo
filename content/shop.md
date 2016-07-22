@@ -11,8 +11,8 @@ draft = false
 ## FREE
 <div class="row">
   <div class="col-md-2">BitBalance</div>
-  <div class="col-md-6"><a href="#" class="paddle_button" data-product="506909">Download Now (OSX)</a></div>
-  <div class="col-md-4">Free OSX app to check the balance of any bitcoin wallet</div>
+  <div class="col-md-8">Free OSX app to check the balance of any bitcoin wallet</div>
+   <div class="col-md-2"><a href="#" class="paddle_button" data-product="506909">Download Now (OSX)</a></div>
 </div>
 
 ## PAID
