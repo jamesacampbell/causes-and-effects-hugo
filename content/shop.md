@@ -9,15 +9,15 @@ draft = false
 +++
 
 ## FREE
-
+----
 <div class="row">
   <div class="col-md-2"><b>BitBalance</b></div>
-  <div class="col-md-8">Free OSX app to check the balance of any bitcoin wallet</div>
-  <div class="col-md-2"><a href="#" class="paddle_button" data-product="506909">Download Now (OSX)</a></div>
+  <div class="col-md-6">Free OSX app to check the balance of any bitcoin wallet</div>
+  <div class="col-md-4"><a href="#" class="paddle_button" data-product="506909">Download Now (OSX)</a></div>
 </div>
 
 ## PAID
-
+----
 <p>coming soon.</p>
 
 <a href="https://www.jamescampbell.us/">back to home page</a>
