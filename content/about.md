@@ -27,3 +27,10 @@ G-- e+ h---- r+++ y++++
 ------END GEEK CODE BLOCK------
 </pre>
 
+<pre>
+---------------------- OmniCode 0.1.6 -----------------------
+sxy cm183 kg99 skeaaf73 ha2a1a1b ey5f523f.hazel esO sp= Ag1981 anE hdd Lo38,88N,77.09W ZoT RlM Kd2y PeC MBINTP FHb UF? IN8 AdC PrPython(7) 
+----------- Omnicode http://www.gadgeteer.net/omnicode/ ----------- 
+</pre>
+
+
