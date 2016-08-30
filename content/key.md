@@ -1,6 +1,6 @@
 
 +++ 
-date = "2016-01-01T10:22:59-05:00" 
+date = "2016-01-02T10:22:59-05:00" 
 draft = false 
 title = "pgp key" 
 author = "James Campbell" 
@@ -8,7 +8,8 @@ comments = false
 type = "blank" 
 +++   
 
-
+<body>
+<div>
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: SKS 1.1.5
@@ -64,3 +65,5 @@ odhw5WIBAL3zHN0h0vTxw7ieg1ADqNQchYsHcGzsjcC0o9ULN+SY
 =Wvng
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
+</div>
+</body>
