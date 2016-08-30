@@ -1,12 +1,12 @@
-
-+++ 
-date = "2016-01-02T10:22:59-05:00" 
-draft = false 
-title = "pgp key" 
-author = "James Campbell" 
-comments = false 
-type = "blank" 
-+++   
++++
+title = "pgp key"
+description = "original artwork and digital downloads for sale"
+date = "2013-01-01T15:22:59-05:00"
+menu = "main"
+weight = -190
+type = "blank"
+draft = false
++++
 
 <body>
 <div>
