@@ -1,5 +1,13 @@
 
-+++ date = "2016-01-01T10:22:59-05:00" draft = false title = "pgp key" author = "James Campbell" comments = false type = "blank" +++
++++ 
+date = "2016-01-01T10:22:59-05:00" 
+draft = false 
+title = "pgp key" 
+author = "James Campbell" 
+comments = false 
+type = "blank" 
++++   
+
 
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
