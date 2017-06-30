@@ -5,5 +5,5 @@ sudo -S -u jamesc -i git -C ~/projects/hugositejc/ pull
 hugo
 cd /home/jamesc/projects/hugositejc/public
 #cp -R * /home/user-data/www/default
-sudo cp -R * /usr/share/nginx/html
+sudo /bin/cp -R * /usr/share/nginx/html
 echo "completed new publication of causes & effects"
