@@ -1,9 +1,9 @@
-BaseUrl= "https://www.jamescampbell.us"
+BaseUrl= "https://jamescampbell.us"
 LanguageCode= "en-US"
 Title= "CAUSES & EFFECTS"
 paginate = 10
 DisqusShortname = "jamescampbell"
-Copyright = "All rights reserved © 2015-2017"
+Copyright = "All rights reserved © 2015-2018"
 canonifyurls = true
 theme = "startbootstrap-clean-blog"
 newContentEditor = "nano"
