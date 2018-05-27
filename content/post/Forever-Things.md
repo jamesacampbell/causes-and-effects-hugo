@@ -9,7 +9,7 @@ tags = ["consumer","consumerist", "shopping"]
 
 I love brass. Brass is made to last forever. Well, it will last at least beyond the lifespan of the average human in 2018. It is impervious to weather, salt-water, looks good as trim, and goes with anything. I even bought a pen that is brass. Assuming I buy ink refills, this means I never have to buy a pen again. 
 
-That is the micro-example for this entire post: buying things and then never having to worry about buying another again. 
+That is the micro-example for this entire post: buying a thing and then never have to buy a newer version of the thing again.. 
 
 I can think of about 10 things that, if you make the right choice when purchasing, you never have to buy again. You may have to repair or buy parts for, but you will never have to buy the full item again.
 
