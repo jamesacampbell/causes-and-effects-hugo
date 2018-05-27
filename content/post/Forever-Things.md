@@ -2,7 +2,7 @@
 date = "2018-05-25T23:19:10"
 title = "Forever Things"
 image = "/img/forever-blue.jpg"
-description = "Thinking about what I don’t have to buy ever again."
+description = "Thinking about what I don’t ever have to buy again."
 categories = ["tips"]
 tags = ["consumer","consumerist", "shopping"]
 +++
