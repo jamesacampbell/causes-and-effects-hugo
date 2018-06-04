@@ -3,8 +3,8 @@ echo "initializing update and publish script for causes and effects"
 today="$(date '+%Y-%m-%d')"
 # go to project folder
 cd ~/projects/hugositejc/
-# write changelog
-echo "$today" >> changelog
+# write changelog commented out - too many commits
+# echo "$today" >> changelog
 # pull latest changes
 sudo -S -u jamesc -i git -C ~/projects/hugositejc/ pull
 # push any updates
