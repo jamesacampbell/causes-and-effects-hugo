@@ -40,3 +40,12 @@ pygmentsStyle = "native"
   url = "/post/"
   weight = -180
 
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
