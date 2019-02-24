@@ -21,6 +21,8 @@ draft = false
 ## PAID
 ----
 
-<p>coming soon.</p>
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-gumroad-product-id="rnGfX"><a href="https://gumroad.com/l/rnGfX">Loading...</a></div>
+
 
 <a href="https://www.jamescampbell.us/">back to home page</a>
