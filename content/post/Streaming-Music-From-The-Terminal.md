@@ -15,7 +15,7 @@ Rdio ended up not finding the right business model, or spending too much of its 
 
 Fast forward to today, and I still use Pandora (I also am on [Spotify][2]). 
 
-There still is no desktop client for Pandora. Or is there?
+What doesn't make sense to me about Pandora is that there is no desktop client. I guess they focus on mobile and web? Or is there a workaround?
 
 It turns out if you are on a Mac, and have [homebrew][3] installed, you can do <pre>brew install [pianobar][4]</pre> and you can access and stream music from the terminal, complete with keyboard shortcuts to change stations and thumb-up or thumb-down tracks.
 
