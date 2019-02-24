@@ -1,29 +1,31 @@
 +++
-date = "2018-05-25T23:19:10"
-title = "Forever Things"
-image = "/img/forever-blue.jpg"
-description = "Thinking about what to buy to never buy again."
+date = "2019-02-23T21:19:10"
+title = "Streaming Music From The Terminal"
+image = "/img/guitar.jpg"
+description = "The joy of headless apps."
 categories = ["tips"]
-tags = ["consumer","consumerist", "shopping"]
+tags = ["music","pandora", "streaming"]
 +++
 
-I love brass. Brass is made to last forever. Well, it will last at least beyond the lifespan of the average human in 2018. It is impervious to weather, salt-water, looks good as trim, and goes with anything. I even bought a pen that is brass. Assuming I buy ink refills, this means I never have to buy a pen again. 
+Do you remember Rdio? It was a better music streaming service than Spotify.
 
-That is the micro-example for this entire post: buying a thing and then never have to buy a newer version of the thing again.. 
+In 2013, Entertainment Weekly compared a number of music services and judged Rdio the best, grading it "A" and writing that it had "by far the best app and online interface, making database searching and playlist curation easy" - [source][1]
 
-I can think of about 10 things that, if you make the right choice when purchasing, you never have to buy again. You may have to repair or buy parts for, but you will never have to buy the full item again.
+Rdio ended up not finding the right business model, or spending too much of its 200 million, but it filed for bankruptcy in 2015 and Pandora purchased it and all of its assets for 75 million cash.
 
-1. Toothbrush. I've had the same electric toothbrush for 10 years. No, that is not disgusting! I buy different heads for it periodically, but the charger still works really well, and I have no plans to buy anything else.
-2. Wallet. I have a Field Notes Leather wallet that holds my notebook, pen, passport, and credit cards. It will definitely outlast me.
-3. Storage Trunk. Still searching.
-4. Backpack. Still searching.
-5. Suitcase. Still searching.
-6. Briefcase. [Saddleback Leather Front Pocket Briefcase][1] 100 year warranty!
-7. Boots. Still searching.
-8. Shoes. Spend $200 to $700 on a nice pair of shoes and just re-sole them. You will never have to worry about shoes ever again.
-9. Pens. I have this [Kaweco Sport Pocket Pen][2]. I never have to buy another again.
-10. Watch. Still searching.
+Fast forward to today, and I still use Pandora (I also am on [Spotify][2]). 
+
+There still is no desktop client for Pandora. Or is there?
+
+It turns out if you are on a mac and have [homebrew][3] installed, you can do <pre>brew install [pianobar][4]</pre> and you can access and stream music from the terminal, complete with keyboard shortcuts to change stations and thumb-up or thumb-down tracks.
+
+It is one of the headless apps I use every day, so I thought I would share it. 
+
+What apps are indispensible to you?
 
 
-[1]: http://a.co/22VWxxd "100 years."
-[2]: http://a.co/5P0KU90 "Best pen in the world."
+[1]: http://www.ew.com/ew/article/0,,20663844,00.html "The best, but filed for bankruptcy."
+[2]: https://open.spotify.com/user/jamesanthonycampbell "Yep, I am a hipster."
+[3]: https:/brew.sh "homebrew is a great package manager, and works on windows and linux now too."
+[4]: https://6xq.net/pianobar/ "I was hesitant to link to it, I don't want it to get too popular."
+
