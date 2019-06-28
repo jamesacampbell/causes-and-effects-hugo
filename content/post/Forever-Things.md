@@ -7,11 +7,11 @@ categories = ["tips"]
 tags = ["consumer","consumerist", "shopping"]
 +++
 
-I love brass. Brass is made to last forever. Well, it will last at least beyond the lifespan of the average human in 2018. It is impervious to weather, salt-water, looks good as trim, and goes with anything. I even bought a pen that is brass. Assuming I buy ink refills, this means I never have to buy a pen again. 
+I love brass. Brass is a hard metal that will outlast me. It is strange to think about things that will exist after we are long gone. I own a Kaweco pen that is brass. Assuming I buy ink refills, I never have to buy a pen again. 
 
-That is the micro-example for this entire post: buying a thing and then never have to buy a newer version of the thing again.. 
+That is a single example that explains the idea behind this article: what thing can you acquire but one time, and then never have to buy a newer version of that thing again? 
 
-I can think of about 10 things that, if you make the right choice when purchasing, you never have to buy again. You may have to repair or buy parts for, but you will never have to buy the full item again.
+I came up with a list of 10 things that, if you make the right choice when purchasing, you should never have to buy again for your entire life. You may have to repair or buy parts for them, but you will never have to buy the full item again.
 
 1. Toothbrush. I've had the same electric toothbrush for 10 years. No, that is not disgusting! I buy different heads for it periodically, but the charger still works really well, and I have no plans to buy anything else.
 2. Wallet. I have a Field Notes Leather wallet that holds my notebook, pen, passport, and credit cards. It will definitely outlast me.
