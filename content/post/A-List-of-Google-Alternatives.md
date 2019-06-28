@@ -16,8 +16,8 @@ Here is what I have found out there to replace google (I am not getting paid to 
 
 1. Google Reader <i class='fa fa-hand-o-right'></i> [Fever][1]
 2. Google Feedburner <i class='fa fa-hand-o-right'></i> [FeedPress][2] (formerly URI.LV)
-3. Google Gmail <i class='fa fa-hand-o-right'></i> [Fastmail][3]
-4. Google Drive <i class='fa fa-hand-o-right'></i> [OwnCloud][4]
+3. Google Gmail <i class='fa fa-hand-o-right'></i> [Mail in a Box][3]
+4. Google Drive <i class='fa fa-hand-o-right'></i> [NextCloud][4]
 5. Google Docs <i class='fa fa-hand-o-right'></i> [FengOffice][5]
 6. Google Analytics <i class='fa fa-hand-o-right'></i> [Mint][6]
 
@@ -25,7 +25,7 @@ Here is what I have found out there to replace google (I am not getting paid to 
 
 [1]: http://www.feedafever.com "Shaun Inman is the man."
 [2]: http://feedpress.it "Highly customizable, mine is running at feed.jamescampbell.us/jamescampbell"
-[3]: http://fastmail.fm "This is seriously faster than Gmail & more features."
-[4]: http://www.owncloud.org "your data your way"
+[3]: https://mailinabox.email "Yes, you can run your own email server."
+[4]: https://nextcloud.com/install/ "your data your way, bonus points is it comes with Mail in a Box"
 [5]: http://www.fengoffice.com/web/professional_vs_community.php "google docs and calendar and notes"
 [6]: http://www.haveamint.com "mint by Shaun Inman"
