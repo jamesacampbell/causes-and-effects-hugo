@@ -10,7 +10,7 @@ type = "about"
 
 I am a husband, father, and technologist living near Washington DC. 
 
-I work on projects that venn art & code.
+I enjoy working on projects that venn art & code as well as making and listening to music.
 
 hackercode:
 

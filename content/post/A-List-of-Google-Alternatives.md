@@ -6,7 +6,7 @@ description = "Let's get off the Google bus already."
 categories = ["tips"]
 tags = ["google","open source"]
 +++
-I used to love Google services and their policy of 'don't be evil.' The anagram solver tells me that the phrase turns into the word 'violented.' Well I definitely feel whatever that means. 
+I used to love Google services and their policy of "don't be evil." The anagram solver tells me that the phrase turns into the word 'violented.' Well I definitely feel whatever that means. 
 
 I was a huge fan of Google Reader and Google Analytics. I even setup and managed google analytic accounts for websites that I created for clients. Not today. 
 
