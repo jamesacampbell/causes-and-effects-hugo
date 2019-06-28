@@ -14,18 +14,18 @@ _I do understand it is probably cliche in the ever-growing hipster-tech communit
 
 Here is what I have found out there to replace google (I am not getting paid to endorse any of these services, I just love them because they work the same or better than Google's version):
 
-1. Google Reader <i class='fa fa-hand-o-right'></i> [Fever][1]
+1. Google Reader <i class='fa fa-hand-o-right'></i> [TT-RSS][1]
 2. Google Feedburner <i class='fa fa-hand-o-right'></i> [FeedPress][2] (formerly URI.LV)
 3. Google Gmail <i class='fa fa-hand-o-right'></i> [Mail in a Box][3]
 4. Google Drive <i class='fa fa-hand-o-right'></i> [NextCloud][4]
 5. Google Docs <i class='fa fa-hand-o-right'></i> [FengOffice][5]
-6. Google Analytics <i class='fa fa-hand-o-right'></i> [Mint][6]
+6. Google Analytics <i class='fa fa-hand-o-right'></i> [GoAccess][6]
 
-*You run Fever, OwnCloud, and FengOffice on your own server with your own domain. For instance, I have my fever installation at [jamescampbell.us/fever](http://www.jamescampbell.us/fever). If you need help setting this up, send me a message via one of my contact methods below.*
+*You run TT-RSS, NextCloud, and FengOffice on your own server with your own domain. For instance, I have my tt-rss installation at [jamescampbell.us/tt-rss](http://www.jamescampbell.us/tt-rss). If you need help setting this up, send me a message via one of my contact methods below.*
 
-[1]: http://www.feedafever.com "Shaun Inman is the man."
+[1]: https://tt-rss.org/ "Nice, easy install and lightweight rss feed manager and reader"
 [2]: http://feedpress.it "Highly customizable, mine is running at feed.jamescampbell.us/jamescampbell"
 [3]: https://mailinabox.email "Yes, you can run your own email server."
-[4]: https://nextcloud.com/install/ "your data your way, bonus points is it comes with Mail in a Box"
-[5]: http://www.fengoffice.com/web/professional_vs_community.php "google docs and calendar and notes"
-[6]: http://www.haveamint.com "mint by Shaun Inman"
+[4]: https://nextcloud.com/install "your data your way, bonus points is it comes with Mail in a Box"
+[5]: http://www.fengoffice.com/web/professional_vs_community.php "Google docs and calendar and notes"
+[6]: https://github.com/allinurl/goaccess "Nice linux terminal interface in case you dont have web access"
