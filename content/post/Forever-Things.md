@@ -7,9 +7,9 @@ categories = ["tips"]
 tags = ["consumer","consumerist", "shopping"]
 +++
 
-I love brass. Brass is a hard metal that will outlast me. It is strange to think about things that will exist after we are long gone. I own a Kaweco pen that is brass. Assuming I buy ink refills, I never have to buy a pen again. 
+I love brass. Brass is a hard metal that will outlast me. It is strange to think about things that will exist after we are gone. I own a Kaweco pen that is brass. Assuming I buy ink refills, I never have to buy a pen again. 
 
-That is a single example that explains the idea behind this article: what thing can you acquire but one time, and then never have to buy a newer version of that thing again? 
+That is a single example that explains the idea behind this article. What thing can you acquire once, and then never have to buy a newer version again? 
 
 I came up with a list of 10 things that, if you make the right choice when purchasing, you should never have to buy again for your entire life. You may have to repair or buy parts for them, but you will never have to buy the full item again.
 
