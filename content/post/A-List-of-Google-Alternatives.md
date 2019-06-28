@@ -21,7 +21,7 @@ Here is what I have found out there to replace google (I am not getting paid to 
 5. Google Docs <i class='fa fa-hand-o-right'></i> [FengOffice][5]
 6. Google Analytics <i class='fa fa-hand-o-right'></i> [GoAccess][6]
 
-*You run TT-RSS, NextCloud, and FengOffice on your own server with your own domain. For instance, I have my tt-rss installation at [jamescampbell.us/tt-rss](http://www.jamescampbell.us/tt-rss). If you need help setting this up, send me a message via one of my contact methods below.*
+*You run TT-RSS, NextCloud, and FengOffice on your own server with your own domain. For instance, I have my tt-rss installation at [jr.jamescampbell.us/tt-rss](https://jr.jamescampbell.us/tt-rss). If you need help setting this up, send me a message via one of my contact methods below.*
 
 [1]: https://tt-rss.org/ "Nice, easy install and lightweight rss feed manager and reader"
 [2]: http://feedpress.it "Highly customizable, mine is running at feed.jamescampbell.us/jamescampbell"
