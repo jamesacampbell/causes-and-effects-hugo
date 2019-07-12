@@ -19,6 +19,19 @@ What doesn't make sense to me about Pandora is that there is no desktop client. 
 
 It turns out if you are on a Mac, and have [homebrew][3] installed, you can do <pre>brew install [pianobar][4]</pre> and you can access and stream music from the terminal, complete with keyboard shortcuts to change stations and thumb-up or thumb-down tracks.
 
+As a step further, you can create a config file at <pre>~/.config/pianobar/config</pre> that will auto-log you into your Pandora account and even autostream a particular station of interest if you wish.
+
+Example config from <pre>man pianobar</pre>:
+
+<pre>
+audio_quality = high
+autostart_station = 2
+
+password = plaintext_password
+user = your@user.name
+</pre>
+
+
 It is one of the headless apps I use every day, so I thought I would share it. 
 
 What apps are indispensible to you?
