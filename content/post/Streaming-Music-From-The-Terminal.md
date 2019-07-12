@@ -17,6 +17,21 @@ Fast forward to today, and I still use Pandora (I also am on [Spotify][2]).
 
 What doesn't make sense to me about Pandora is that there is no desktop client. I guess they focus on mobile and web? Or is there a workaround?
 
+Enter Pianobar. A thoughtful command line client for Pandora. Here is what mine looks like when I initialize it:
+
+<pre>
+$ pianobar
+Welcome to pianobar (2018.06.22)! Press ? for a list of commands.
+(i) Login... Ok.
+(i) Get stations... Ok.
+|>  Station "Sunset Rubdown Radio" (54342580605901210)
+(i) Receiving new playlist... Ok.
+|>  "You Go On Ahead (Trumpet Trumpet II)" by "Sunset Rubdown" on "Dragonslayer" <3
+#   -05:41/05:45
+</pre>
+
+It auto loads the previous station you were listening to, in my case it was [Sunset Rubdown][5] Radio. 
+
 It turns out if you are on a Mac, and have [homebrew][3] installed, you can do <pre>brew install [pianobar][4]</pre> and you can access and stream music from the terminal, complete with keyboard shortcuts to change stations and thumb-up or thumb-down tracks.
 
 As a step further, you can create a config file at <pre>~/.config/pianobar/config</pre> that will auto-log you into your Pandora account and even autostream a particular station of interest if you wish.
@@ -41,4 +56,4 @@ What apps are indispensible to you?
 [2]: https://open.spotify.com/user/jamesanthonycampbell "Yep, I am a hipster."
 [3]: https:/brew.sh "homebrew is a great package manager, and works on windows and linux now too."
 [4]: https://6xq.net/pianobar/ "I was hesitant to link to it, I don't want it to get too popular."
-
+[5]: https://en.wikipedia.org/wiki/Sunset_Rubdown "Was a great Canadian indie rock band that included piano hero Spencer Krug."
