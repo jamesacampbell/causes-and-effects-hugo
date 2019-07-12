@@ -64,7 +64,7 @@ It turns out if you are on a Mac, and have [homebrew][3] installed, you can do `
 	!    change settings
 </pre>
 
-As a step further, you can create a config file at <pre>~/.config/pianobar/config</pre> that will auto-log you into your Pandora account and even autostream a particular station of interest if you wish.
+As a step further, you can create a config file at `~/.config/pianobar/config` by `mkdir -p ~/.config/pianobar` and `nano ~/.config/pianobar/config` that will auto-log you into your Pandora account and even autostream a particular station of interest if you wish.
 
 Example config from `man pianobar`:
 
