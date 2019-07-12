@@ -21,7 +21,7 @@ It turns out if you are on a Mac, and have [homebrew][3] installed, you can do <
 
 As a step further, you can create a config file at <pre>~/.config/pianobar/config</pre> that will auto-log you into your Pandora account and even autostream a particular station of interest if you wish.
 
-Example config from <pre>man pianobar</pre>:
+Example config from `man pianobar`:
 
 <pre>
 audio_quality = high
