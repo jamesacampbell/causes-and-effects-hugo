@@ -32,7 +32,7 @@ Welcome to pianobar (2018.06.22)! Press ? for a list of commands.
 
 It auto loads the previous station you were listening to, in my case it was [Sunset Rubdown][5] Radio. 
 
-It turns out if you are on a Mac, and have [homebrew][3] installed, you can do `brew install [pianobar][4]` and you can access and stream music from the terminal, complete with keyboard shortcuts to change stations and thumb-up or thumb-down tracks.
+It turns out if you are on a Mac, and have [homebrew][3] installed, you can do `brew install pianobar` and you can access and stream music from the terminal, complete with keyboard shortcuts to change stations and thumb-up or thumb-down tracks.
 
 As a step further, you can create a config file at <pre>~/.config/pianobar/config</pre> that will auto-log you into your Pandora account and even autostream a particular station of interest if you wish.
 
