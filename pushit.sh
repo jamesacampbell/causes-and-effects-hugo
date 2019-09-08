@@ -15,6 +15,7 @@ sudo -S -u jamesc -i git -C ~/projects/hugositejc/ push
 hugo
 # go to resulting public folder of compiled data, should move to environmental variables to help automate later
 cd /home/jamesc/projects/hugositejc/public
+cp ~/twtxt.txt .
 # copy all to root web folder
 sudo /bin/cp -R * /home/user-data/www/default
 echo "completed new publication of causes & effects"
