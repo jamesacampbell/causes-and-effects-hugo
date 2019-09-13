@@ -13,7 +13,7 @@ That is a single example that explains the idea behind this article. What thing 
 
 I came up with a list of 10 things that, if you make the right choice when purchasing, you should never have to buy again for your entire life. You may have to repair or buy parts for them, but you will never have to buy the full item again.
 
-1. Toothbrush. I've had the same electric toothbrush for 10 years. No, that is not disgusting! I buy different heads for it periodically, but the charger still works really well, and I have no plans to buy anything else.
+1. Toothbrush. I've had the [same electric toothbrush][3] for 10 years. No, that is not disgusting! I buy different heads for it periodically, but the charger still works really well, and I have no plans to buy anything else.
 2. Wallet. I have a Field Notes Leather wallet that holds my notebook, pen, passport, and credit cards. It will definitely outlast me.
 3. Storage Trunk. Still searching.
 4. Backpack. Still searching.
@@ -27,3 +27,4 @@ I came up with a list of 10 things that, if you make the right choice when purch
 
 [1]: http://a.co/22VWxxd "100 years."
 [2]: http://a.co/5P0KU90 "Best pen in the world."
+[3]: https://www.amazon.com/dp/B007ZN5ATQ/ref=cm_sw_em_r_mt_dp_U_MZVEDbAZDF0ZZ "Best toothbrush available"
