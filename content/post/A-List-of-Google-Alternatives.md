@@ -1,14 +1,15 @@
 +++
 date = "2013-07-08T10:10:10"
 title = "A List of Google Alternatives"
+updated = "2019-10-26T15:13:10"
 image = "/img/google-alt.jpg"
 description = "Let's get off the Google bus already."
 categories = ["tips"]
 tags = ["google","open source"]
 +++
-I used to love Google services and their policy of "don't be evil." The anagram solver tells me that the phrase turns into the word 'violented.' Well I definitely feel whatever that means. 
+I used to love Google services and their policy of "don't be evil." The anagram solver tells me that the phrase turns into the word 'violented.' Well I definitely feel whatever that means.
 
-I was a huge fan of Google Reader and Google Analytics. I even setup and managed google analytic accounts for websites that I created for clients. Not today. 
+I was a huge fan of Google Reader and Google Analytics. I even setup and managed google analytic accounts for websites that I created for clients. Not today.
 
 _I do understand it is probably cliche in the ever-growing hipster-tech community to be anti-google but I really don't want to have my digital life attached to a single service where I am the product, which is also the reason I have a largely vacant Facebook account._
 
