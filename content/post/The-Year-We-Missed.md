@@ -1,6 +1,7 @@
 +++
 title = "2013 The Year We Missed"
 date = "2013-12-31T04:10:00"
+updated = "2019-10-26T15:13:10"
 image = "/img/2013-year-missed.jpg"
 description = "2013 is the year that wasn't."
 categories = ["essays"]
@@ -8,9 +9,9 @@ tags = ["dystopia","gadgets","addiction"]
 +++
 In 2013, we looked pretty ridiculous standing around staring at our phones, tablets, phablets, and iPads.
 
-My goal in this post is to share photos I have curated that document the phenomenon of humans interacting with new technology. 
+My goal in this post is to share photos I have curated that document the phenomenon of humans interacting with new technology.
 
-Since I believe I am a better curator than writer, I will try to keep the words to a minimum. 
+Since I believe I am a better curator than writer, I will try to keep the words to a minimum.
 
 ![man on phone](http://farm8.staticflickr.com/7238/7049846391_fd4cc6cb7c_b_d.jpg)
 <p class="pcaption">photo credit Timothy Kraus</p>
@@ -24,9 +25,9 @@ Since I believe I am a better curator than writer, I will try to keep the words 
 <div><img class='protected' src="http://farm6.staticflickr.com/5484/9281447839_b4313457e2_b_d.jpg" ></div>
 <div class="pcaption">photo credit Sally Walton</div>
 
-New technology is great, but we need to figure out what it means and how it fits into our lives.  
+New technology is great, but we need to figure out what it means and how it fits into our lives.
 
-Were our lives more meaningful and rich when we were analog? 
+Were our lives more meaningful and rich when we were analog?
 
 What can we do today to enable meaning in a world that expresses emotion through a like button?
 
@@ -48,7 +49,7 @@ My wife and I have a rule: *no phones out at meals*. It is simple, but it really
 <div class="pcaption">photo credit Oren Levine</div>
 
 ### 2014 is the year we will start to figure it out.
- 
-2014 is the year we start finding smart uses for our technology that enable human connection, interaction, and sharing, as opposed to keeping us apart even when we are in the same room.  
+
+2014 is the year we start finding smart uses for our technology that enable human connection, interaction, and sharing, as opposed to keeping us apart even when we are in the same room.
 
 ## Happy New Year!
