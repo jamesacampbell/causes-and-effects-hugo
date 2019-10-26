@@ -1,5 +1,6 @@
 +++
 date = "2018-05-25T23:19:10"
+updated = "2019-10-26T15:13:10"
 title = "Forever Things"
 image = "/img/forever-blue.jpg"
 description = "Thinking about what to buy to never buy again."
