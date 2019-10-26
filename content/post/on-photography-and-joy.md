@@ -1,8 +1,8 @@
 +++
 title = "On Photography and Joy"
 date = "2014-02-04T10:10:10"
-updated = "2019-10-26T15:13:10"
 image = "/img/on-photography-and-joy.jpg"
+updated = "2019-10-26T15:13:10"
 description = "My first attempt to explain why I call myself a photographer."
 categories = ["essays"]
 tags = ["photography"]
