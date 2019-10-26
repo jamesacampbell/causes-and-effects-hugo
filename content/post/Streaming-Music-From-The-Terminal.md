@@ -1,5 +1,6 @@
 +++
 date = "2019-02-23T21:19:10"
+updated = "2019-10-26T15:13:10"
 title = "Streaming Music From The Terminal"
 image = "/img/guitar.jpg"
 description = "The joy of headless apps."
@@ -13,7 +14,7 @@ In 2013, Entertainment Weekly compared a number of music services and judged Rdi
 
 Rdio ended up not finding the right business model, or spending too much of its 200 million, or who knows what, but it filed for bankruptcy in 2015 and Pandora purchased it and all of its assets for 75 million cash.
 
-Fast forward to today, and I still use Pandora (I also am on [Spotify][2]). 
+Fast forward to today, and I still use Pandora (I also am on [Spotify][2]).
 
 What doesn't make sense to me about Pandora is that there is no desktop client. I guess they focus on mobile and web? Or is there a workaround?
 
@@ -30,7 +31,7 @@ Welcome to pianobar (2018.06.22)! Press ? for a list of commands.
 #   -05:41/05:45
 </pre>
 
-It auto loads the previous station you were listening to, in my case it was [Sunset Rubdown][5] Radio. 
+It auto loads the previous station you were listening to, in my case it was [Sunset Rubdown][5] Radio.
 
 It turns out if you are on a Mac, and have [homebrew][3] installed, you can do `brew install pianobar` and you can access and stream music from the terminal, complete with keyboard shortcuts to change stations and thumb-up (`shift + =`) or thumb-down (`-`) tracks. The `?` gets you the list of all of the commands. For completeness here ya go:
 
@@ -77,7 +78,7 @@ user = your@user.name
 </pre>
 
 
-It is one of the headless apps I use every day, so I thought I would share it. 
+It is one of the headless apps I use every day, so I thought I would share it.
 
 What apps are indispensible to you?
 

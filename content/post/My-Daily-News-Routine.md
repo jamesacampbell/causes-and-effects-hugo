@@ -1,13 +1,14 @@
 +++
 title = "My Daily News Routine"
 date = "2013-09-02T10:10:10"
+updated = "2019-10-26T15:13:10"
 image = "/img/daily-news-routine.jpg"
 description = "The key is paced news via email. Yes, email."
 categories = ["tips"]
 +++
-It is impossible for anyone to keep up with everything that happens every single day. 
+It is impossible for anyone to keep up with everything that happens every single day.
 
-Back in 2008, stuck between Youtube videos, tweets, Flickr contacts, etcetera, I realized this. I decided to filter out what I really needed daily through a tight collection of RSS feeds and email subscriptions. I started with an initial list of 10 to 20 in Google Reader and it grew from there. I will skip the growing pains of this method, but trust me, it was hard to find a happy medium between being overwhelmed with content and feeling informed. 
+Back in 2008, stuck between Youtube videos, tweets, Flickr contacts, etcetera, I realized this. I decided to filter out what I really needed daily through a tight collection of RSS feeds and email subscriptions. I started with an initial list of 10 to 20 in Google Reader and it grew from there. I will skip the growing pains of this method, but trust me, it was hard to find a happy medium between being overwhelmed with content and feeling informed.
 
 Fast-forward to the present day and I have over 400 RSS feeds residing on my [Fever](http://www.feedafever.com) in over 20 different folder categories, the main being _photography_, _technology_, _art and design_, and _coding_. I also have one folder labeled _awesome_ where I have a select few including Seth Godin's blog. I will save the full list of my RSS for another post. The rest of this post will focus on what I read via email every day.
 
@@ -27,7 +28,7 @@ Vimeo is where I find great artists posting videos about their works. The daily 
 
 **8am** - [Newser](http://www.newser.com)
 
-Newser is a news aggregator website. I would skip the site completely and just sign-up for their [email newsletter](http://www.newser.com/subscriptions.aspx). 
+Newser is a news aggregator website. I would skip the site completely and just sign-up for their [email newsletter](http://www.newser.com/subscriptions.aspx).
 
 **830am** - [Daily Digg](http://www.digg.com)
 
@@ -42,7 +43,7 @@ Swayy is yet another service trying to intelligently recommend content to you ba
 From the site: "The day's most fascinating news." Also:
 "Dave Pell is a first class picker, packer and shipper of the nuggets you need to know. NextDraft will make you love email again." by Michael Sippey, Twitter
 
-NextDraft also has an iPhone app that you can download. 
+NextDraft also has an iPhone app that you can download.
 
 So there you have it. This is what I read every day at a minimum, even when I don't have time for my RSS feeds, I can always open my mail app and read these highlights from the day's news.
 
