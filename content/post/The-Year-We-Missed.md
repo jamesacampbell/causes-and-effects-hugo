@@ -1,7 +1,7 @@
 +++
 title = "2013 The Year We Missed"
 date = "2013-12-31T04:10:00"
-updated = "2019-10-26T15:13:10"
+lastmod = "2019-10-26T15:13:10"
 image = "/img/2013-year-missed.jpg"
 description = "2013 is the year that wasn't."
 categories = ["essays"]

@@ -1,7 +1,7 @@
 +++
 title = "Why Flickr is My Online Backup Solution"
 date = "2013-11-11T10:10:10"
-updated = "2019-10-26T15:13:10"
+lastmod = "2019-10-26T15:13:10"
 description = "Unlimited storage is the key phrase here."
 image = "/img/razor.jpg"
 categories = ["tips"]

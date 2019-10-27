@@ -7,7 +7,7 @@ categories = ["essays","photography"]
 tags = ["writing","mobile photography"]
 image = "/img/sales.jpg"
 date = "2012-09-11T15:00:00-04:00"
-updated = "2019-10-26T15:13:10"
+lastmod = "2019-10-26T15:13:10"
 +++
 
 For 3 months when I was 19 years old, I worked as a car salesman. I was probably one of the worst in Pennsylvania, if not the entire United States. I was one of three hires, and I didn’t know it then but the dealership was only going to keep one of us. This was all by design.

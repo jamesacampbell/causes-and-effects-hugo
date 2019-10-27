@@ -1,7 +1,7 @@
 +++
 title = "My Daily News Routine"
 date = "2013-09-02T10:10:10"
-updated = "2019-10-26T15:13:10"
+lastmod = "2019-10-26T15:13:10"
 image = "/img/daily-news-routine.jpg"
 description = "The key is paced news via email. Yes, email."
 categories = ["tips"]

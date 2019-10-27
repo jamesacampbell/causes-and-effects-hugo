@@ -1,7 +1,7 @@
 +++
 date = "2013-07-08T10:10:10"
 title = "A List of Google Alternatives"
-updated = "2019-10-26T15:13:10"
+lastmod = "2019-10-26T15:13:10"
 image = "/img/google-alt.jpg"
 description = "Let's get off the Google bus already."
 categories = ["tips"]

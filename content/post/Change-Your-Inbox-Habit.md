@@ -1,7 +1,7 @@
 +++
 title = "Change Your Inbox Habit"
 date = "2013-06-29T10:10:10"
-updated = "2019-10-26T15:13:10"
+lastmod = "2019-10-26T15:13:10"
 image = "/img/cliff.jpg"
 description = "Stop checking your email every five minutes."
 categories = ["tips"]

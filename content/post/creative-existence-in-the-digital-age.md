@@ -5,7 +5,7 @@ tags = ["writing","essays"]
 date = "2012-10-31T15:00:00-05:00"
 description = "dystopic phobia"
 image = "/img/cover.jpg"
-updated = "2019-10-26T15:13:10"
+lastmod = "2019-10-26T15:13:10"
 +++
 
 My best works will never be shared on Facebook. They will never be tweeted and retweeted by the robotic hoard. They will never show up in the ever-growing free places to post digital works in exchange for digital ad space.

@@ -1,6 +1,6 @@
 +++
 date = "2019-02-23T21:19:10"
-updated = "2019-10-26T15:13:10"
+lastmod = "2019-10-26T15:13:10"
 title = "Streaming Music From The Terminal"
 image = "/img/guitar.jpg"
 description = "The joy of headless apps."

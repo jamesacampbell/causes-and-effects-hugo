@@ -4,6 +4,7 @@ date = "2012-07-01T18:53:17-04:00"
 tags = ["writing", "thoughts", "advice"] 
 title = "The Goal" 
 description = "random thoughts" 
+lastmod = "2016-07-01T18:53:17-04:00"
 +++
 
 The goal should be do create things that make you happy. 
