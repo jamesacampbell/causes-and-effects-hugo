@@ -8,6 +8,7 @@ canonifyurls = true
 theme = "startbootstrap-clean-blog"
 newContentEditor = "nano"
 pygmentsStyle = "native"
+enableGitInfo = true
 [[author]]
     name = "James Campbell"
 
