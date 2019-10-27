@@ -13,7 +13,7 @@
                <h2 class="subheading">{{ .Description }}</h2>
                <span class="meta">Posted by <a href="#">{{ .Site.Params.Author }}</a> on {{ dateFormat .Site.Params.DateForm .Date }}
                <br />
-               Last Updated {{ dateFormat .Site.Params.DateForm .updated }}
+               Last Updated {{ .Site.Params.updated }}
                  <br />
                  {{ partial "categories.html" . }}
                  <br />
